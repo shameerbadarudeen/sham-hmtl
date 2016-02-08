@@ -1,2 +1,2 @@
-# sham-hmtl
+# sham-html
 # shameer ui developer
